@@ -1,15 +1,15 @@
 # ylle_beds
-Permite que você se deite em qualquer cama no hospital
+Permite que você se deite em qualquer cama de hospital
 
 ## Requisitos
 - [Hospital] (https://sv.gta5-mods.com/maps/hospital)
-- [adereços do hospital] (https://forum.fivem.net/t/release-hospital-props/151753)
+- [Adereços de hospital] (https://forum.fivem.net/t/release-hospital-props/151753)
 - esx
 - [es_extended] (https://github.com/ESX-Org/es_extended)
 
 ## Instalação
 1. Baixe todos os scripts em requisitos
-2. Insira wool_beds na sua pasta de recursos
+2. Insira ylle_beds na sua pasta de recursos
 3. Insira no server.cfg `` `start ylle_beds```
 
 ## Info
