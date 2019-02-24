@@ -59,7 +59,7 @@ function bedActive(x, y, z, heading)
             Citizen.Wait(0)
 
             if InAction == true then
-                headsUp('Tryck ~INPUT_VEH_DUCK~ för att ställa dig upp')
+                headsUp('Pressione ~INPUT_VEH_DUCK~ para se levantar')
                 if IsControlJustReleased(0, Keys['X']) then
                     ClearPedTasks(GetPlayerPed(-1))
                     FreezeEntityPosition(GetPlayerPed(-1), false)
